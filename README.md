@@ -258,7 +258,7 @@ The composite capability is then compared with each atomic component.
 The composite does not have an identical vector to each component. Instead, it has different similarity values depending on the component.
 
 ### Composite Properties
-
+ 
 **Composite:**
 
 ```text

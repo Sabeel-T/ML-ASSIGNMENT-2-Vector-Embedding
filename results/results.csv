@@ -13,3 +13,4 @@ Experiment 4,SendNotification,goal_relevance,1.0
 Experiment 4,PlayMusic,goal_relevance,0.0
 Experiment 5,FastPayment -> SlowPayment,combined_similarity,0.7891372746936187
 Experiment 5,FastPayment -> SlowPayment,operational_similarity,0.5783333333333334
+ 

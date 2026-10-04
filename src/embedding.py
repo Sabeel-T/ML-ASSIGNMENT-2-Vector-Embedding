@@ -1,7 +1,7 @@
 import hashlib
 import numpy as np
 from typing import Any
-
+ 
 from .models import State, Goal, Capability
 
 

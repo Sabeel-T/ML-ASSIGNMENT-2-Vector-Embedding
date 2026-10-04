@@ -1,7 +1,7 @@
 from .models import Capability
 from .compatibility import is_compatible
 
-
+ 
 def _product(values):
 
     result = 1.0

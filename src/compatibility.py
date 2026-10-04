@@ -1,6 +1,6 @@
 from .models import Capability
 
-
+ 
 def _condition_satisfied(
     effect_value,
     required_value
